@@ -1,20 +1,5 @@
 This is a frontend application for an e-commerce platform, built using React and Vite. It provides a foundation for developing a responsive and dynamic shopping interface.​
 
-📁 Project Structure
-bash
-Copy
-Edit
-frontend_ProductsEcom/
-├── public/
-├── src/
-│   ├── components/
-│   ├── assets/
-│   └── App.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-├── .eslintrc.cjs
-└── README.md
 🛠️ Getting Started
 Prerequisites
 Node.js (v14 or higher)
